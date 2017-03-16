@@ -1,0 +1,15 @@
+2017-03-16 09:00 PM
+
+! Where the fuck do I start
+  ? Draw the database schema
+  - I need more informations about language difficulty
+    - I can go really deep down in this rabbit hole.
+$ Let's start simple, let's focus on creating a page with a ruby calculator, from an english speaker point of view
+
+
+2017-03-16 09:15 PM
+
+! Error while running simple form on home page. It seems that @user is undefined. Of course it's not. But how do I test my form without that? Would javascript do a better job?
+  ? Should I replace @user with something more meaningful?
+  ? Should I code this form with JS?
+  ? Is coding drunk a bad idea?
